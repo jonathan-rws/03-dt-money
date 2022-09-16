@@ -12,16 +12,16 @@ export const HeaderContent = styled.div`
   display: flex;
   justify-content: space-between;
   align-items: center;
-  button {
-    height: 50px;
-    font-weight: 700;
-    background: ${(props) => props.theme['green-500']};
-    color: ${(props) => props.theme.white};
-    padding: 0 1.25rem;
-    border-radius: 6px;
-    :hover {
-      transition: background 0.2s;
-      background: ${(props) => props.theme['green-300']};
-    }
+`
+export const NewTransactionButton = styled.button`
+  height: 50px;
+  font-weight: 700;
+  background: ${(props) => props.theme['green-500']};
+  color: ${(props) => props.theme.white};
+  padding: 0 1.25rem;
+  border-radius: 6px;
+  :hover {
+    transition: background 0.2s;
+    background: ${(props) => props.theme['green-300']};
   }
 `
