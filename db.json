@@ -1,0 +1,76 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Comissão venda de serviços",
+      "price": 260000,
+      "type": "income",
+      "category": "Salário",
+      "createdAt": "2022-09-18T10:22:43.186Z"
+    },
+    {
+      "id": 2,
+      "description": "Almoço no shopping",
+      "price": 7530,
+      "type": "outcome",
+      "category": "Alimentação",
+      "createdAt": "2022-09-18T09:22:43.186Z"
+    },
+    {
+      "id": 3,
+      "description": "Pagamento Aluguel",
+      "price": 125000,
+      "type": "outcome",
+      "category": "Aluguel",
+      "createdAt": "2022-09-17T10:22:43.186Z"
+    },
+    {
+      "id": 4,
+      "description": "Premiação Havan",
+      "price": 333000,
+      "type": "income",
+      "category": "Salário",
+      "createdAt": "2022-09-16T10:22:43.186Z"
+    },
+    {
+      "category": "nova transaction",
+      "description": "caraca",
+      "price": 154774,
+      "type": "income",
+      "createdAt": "2022-09-19T00:03:49.609Z",
+      "id": 5
+    },
+    {
+      "category": "banana",
+      "description": "corrida",
+      "price": 125444,
+      "type": "outcome",
+      "createdAt": "2022-09-19T00:06:04.128Z",
+      "id": 6
+    },
+    {
+      "category": "combustivel",
+      "description": "gasolina",
+      "price": 25100,
+      "type": "outcome",
+      "createdAt": "2022-09-19T00:10:31.973Z",
+      "id": 7
+    },
+    {
+      "category": "dinheiro",
+      "description": "novo gasto",
+      "price": 154447,
+      "type": "outcome",
+      "createdAt": "2022-09-19T12:30:22.284Z",
+      "id": 8
+    },
+    {
+      "category": "dinheiro",
+      "description": "novo gasto",
+      "price": 300000,
+      "type": "outcome",
+      "createdAt": "2022-09-19T12:30:48.752Z",
+      "id": 9
+    }
+  ]
+}
